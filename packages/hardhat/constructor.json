@@ -1,1 +1,1 @@
-{"JKToken":[{"paramType":"string","paramName":"name_","value":"JK Token"},{"paramType":"string","paramName":"symbol_","value":"JKT"},{"paramType":"uint8","paramName":"decimals_","value":"18"}]}
+{"JKToken":[{"paramType":"string","paramName":"name_","value":"JK Vesting Token"},{"paramType":"string","paramName":"symbol_","value":"JKV"},{"paramType":"uint8","paramName":"decimals_","value":"18"}]}
